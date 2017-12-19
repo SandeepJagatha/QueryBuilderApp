@@ -7,6 +7,7 @@ The Visual Query Builder helps you construct complex database queries with autoc
 And also provides query validation
 </p>
 
+[UI Code](https://github.com/SandeepJagatha/QueryBuilderUIAPP)
 
 Resource urls:
 * http://localhost:8080/queryBuilder/getDatabaseTables
