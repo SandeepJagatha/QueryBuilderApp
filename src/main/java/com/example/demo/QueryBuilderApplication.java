@@ -9,6 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 public class QueryBuilderApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(QueryBuilderApplication.class, args);
+		SpringApplication application = new SpringApplication(QueryBuilderApplication.class);
+		application.run(args);
 	}
 }
